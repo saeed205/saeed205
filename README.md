@@ -1,71 +1,68 @@
-# 💫 About Me
+<h1 align="center">Saeed Kholousi</h1>
 
-💻 Software Engineer with a background in Network Engineering
+<p align="center">
+  Software Engineer &nbsp;·&nbsp; Backend, Infrastructure &amp; Automation
+</p>
 
-🚀 Building web applications, backend services, internal tools, and automation platforms
-
-🔧 Working with Python, Node.js, React, WordPress, Linux, Docker, PostgreSQL, and Nginx
-
-⚙️ Experienced in backend development, infrastructure management, web hosting, and network automation
-
-🌱 Passionate about Software Architecture, Distributed Systems, DevOps, and scalable systems
-
-📚 Continuously learning, building, and improving through real-world projects
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-kholousi/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeedsk205@gmail.com)
-
-# 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
-
-### CMS
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress)
-
-### Automation & Networking
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco)
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=saeed205&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=saeed205&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed205&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saeed-kholousi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saeedsk205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=saeed205&color=blueviolet)
+## About
+
+Software engineer with a background in network engineering. I build and operate backend services, web applications, internal tools, and automation platforms — covering the full path from API and data layer through deployment, hosting, and monitoring.
+
+- **Backend** — designing APIs and services in Python (FastAPI, Flask) and Node.js
+- **Frontend** — internal tools and dashboards with React, TypeScript, and Tailwind CSS
+- **Infrastructure** — Linux, Docker, Nginx, PostgreSQL, and Redis in production environments
+- **Automation** — network configuration and monitoring across Cisco estates using Netmiko and Ansible
+- **Focus areas** — software architecture, distributed systems, DevOps practices, and scalability
+
+---
+
+## Technical Skills
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, SQL, Bash |
+| **Backend** | FastAPI, Flask, Node.js, Express.js, REST APIs |
+| **Frontend** | React, Vite, Tailwind CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Infrastructure** | Linux, Docker, Nginx, Git, CI/CD |
+| **Observability** | Grafana, Elasticsearch |
+| **Networking** | Cisco IOS, Netmiko, Ansible, SNMP |
+| **CMS** | WordPress |
+
+---
+
+## Selected Projects
+
+| Project | Description |
+| :--- | :--- |
+| [**IranPlate-Vision**](https://github.com/saeed205/IranPlate-Vision) | Real-time license plate recognition with Persian OCR, RTSP camera monitoring, access logging, and a bilingual (EN/FA) dashboard. |
+| [**Network Monitoring Tool**](https://github.com/saeed205/Network_Monitoring_Tool) | Continuous host monitoring with live latency, jitter, and success-rate reporting in a formatted console view. |
+| [**Cisco MAC Address Finder**](https://github.com/saeed205/Cisco_mac_address_finder) | Locates a given MAC address across multiple Cisco switches, integrating DHCP server lookups. |
+| [**Multi-Switch Configuration**](https://github.com/saeed205/Configure-Multiple-Cisco-Switches) | Concurrent SSH-based configuration of Cisco devices via Netmiko, with structured logging and per-device result reporting. |
+| [**Modern IP Tool**](https://github.com/saeed205/Modern-IP-Tool) | Command-line utility for subnetting, address conversion, classification, and reverse DNS lookups. |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeed205&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed205&hide_border=true&layout=compact&theme=github_dark" alt="Most used languages" height="165" />
+</p>
+
+---
+
+<p align="center">
+  Open to collaboration on backend, infrastructure, and automation projects.
+</p>
